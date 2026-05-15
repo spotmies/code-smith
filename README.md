@@ -12,7 +12,6 @@ of one into the next, and your AI assistant becomes a full development team.
 **Works with Claude, ChatGPT, Gemini, Cursor, Windsurf — any AI assistant.**
 
 ---
-
 ## What's Inside
 
 ```
